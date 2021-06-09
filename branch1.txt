@@ -1,1 +1,2 @@
-new branch
+new branch is now modified
+modified in branch
